@@ -1,0 +1,16 @@
+{
+  "name": "api-key-generator-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --inspect index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supercharge/strings": "^1.5.0",
+    "crypto": "^1.0.1"
+  }
+}
